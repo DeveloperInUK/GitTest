@@ -1,1 +1,1 @@
-Second example file
+This is the second example file
